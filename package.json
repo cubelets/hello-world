@@ -1,14 +1,15 @@
 {
-  "name": "hello world",
+  "name": "hello-world",
   "version": "0.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Cubelets",
   "license": "ISC",
   "dependencies": {
-    "express": "!4.13.3"
+    "express": "^4.13.3"
   }
 }
+
