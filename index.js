@@ -2,6 +2,7 @@ var express = require('express');
 var app = express();
 
 // XXX
+// XXX some more
 
 app.get('/', function (req, res) {
 	res.send('Hello World!');
